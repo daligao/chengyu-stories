@@ -80,3 +80,8 @@ Progress is saved in your browser.
 ## License
 
 CC0 1.0 Universal — public domain. Use it however you want.
+
+
+## Related resource
+
+[Chinese Fortune Tools](https://chinesefortunetools.com/) — explore Chinese zodiac, calendars, and cultural guides.
